@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @prithvi6244
+- 👋 Hi, I’m Prithviraj
 - 👀 I’m interested in coding and designs
 - 🌱 I’m currently learning still and improving (Brofist)👊 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me (prithvichakma61@gmail.com)
 
 <!---
